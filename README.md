@@ -1,18 +1,10 @@
 
 ### 1. Clone o repo
 
-Clone `bot-pizza-exemplo` local. no terminal, rode:
+Clone `bot-sommelier-virtual` local. no terminal, rode:
 
-  `$ git clone https://github.com/ibm/watson-conversation-slots-intro`
+  `$ git clone https://github.com/klinsmannlopes/bot-sommelier-virtual.git`
 
-
-Mudar para seus acessos do bot
-```
-WORKSPACE_ID=<put workspace id here>
-
-CONVERSATION_USERNAME=<put assistant username here>
-CONVERSATION_PASSWORD=<put assistant password here>
-```
 
 #### Comando para rodar local...
 
